@@ -17,3 +17,6 @@
 <a href="https://www.instagram.com/jlvi19c" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jlvi19c" height="30" width="40" /></a>
  <a href="mailto: vazquez.juan.1fm@gmail.com" target="_blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1011/PNG/512/Gmail_icon-icons.com_75706.png" alt="jlvi19c" height="40" width="40" /></a>
  </p>
+
+<h2 align="left">Skills:</h2>
+<p>Pendiente...</p>
