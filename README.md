@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Juan L. Vazquez Iglesias</h1>
 
-- 🔭 I’m currently working on my web, <a href="https://jlvi19c.vercel.app/" target="_blank">JuanIglesias</a>
+- 🔭 I’m currently working on my web <a href="https://jlvi19c.vercel.app/" style="cursor: pointer; text-decoration: none;" target="_blank">JuanIglesias</a>
 - 🌱 I’m currently learning NextJS
 - 👯 I’m looking to collaborate on a project of NTF's with NextJS
 - 🤔 I’m looking for help with get a job 
